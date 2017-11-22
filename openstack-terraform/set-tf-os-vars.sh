@@ -1,0 +1,6 @@
+TF_VAR_openstack_user_name=$OS_USERNAME
+TF_VAR_openstack_tenant_name=$OS_TENANT_NAME
+TF_VAR_openstack_tenant_id=$OS_TENANT_ID
+TF_VAR_openstack_password=$openstack_password
+TF_VAR_openstack_auth_url=$OS_AUTH_URL
+
